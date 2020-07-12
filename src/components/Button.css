@@ -1,0 +1,25 @@
+.button {
+  height: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
+.button--white {
+  background-color: #f7f7f7;
+  outline: 1px solid #888888;
+  color: #222;
+}
+
+.button--pink {
+  background-color: #ff3366;
+  outline: 1px solid #ba265d;
+  color: #f7f7f7;
+}
+
+.button--grey {
+  background-color: #c5c3cd;
+  color: #000000;
+  outline: 1px solid #888888;
+}
